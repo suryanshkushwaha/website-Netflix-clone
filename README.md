@@ -1,6 +1,6 @@
 # Netflix Clone
 
-This project is a static clone of the Netflix websit. It provides users with a visual representation of the Netflix platform's key features and functionalities. Users can view the layout, design, and content structure of the Netflix website.
+This project is a static clone of the Netflix website. It provides users with a visual representation of the Netflix platform's key features and functionalities. Users can view the layout, design, and content structure of the Netflix website.
 
 ## Project Structure
 
