@@ -2,6 +2,8 @@
 
 This project is a static clone of the Netflix website. It provides users with a visual representation of the Netflix platform's key features and functionalities. Users can view the layout, design, and content structure of the Netflix website.
 
+Live Demo: [https://website-netflix-clone-sk.vercel.app](https://website-netflix-clone-sk.vercel.app)
+
 ## Project Structure
 
 - **HTML File**: The `index.html` file defines the structure of the Netflix clone, including navigation, hero section, content cards, FAQ section, and footer.
